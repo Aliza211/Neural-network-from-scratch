@@ -7,8 +7,11 @@ The general methodology to build a neural network:
 
 3.loop:
       -Implement forward propagation
+      
       -Compute loss or cost function
+      
       -Implement backward propagation
+      
       -Update parameters using optimization algorithm
       
 4.Prediction
