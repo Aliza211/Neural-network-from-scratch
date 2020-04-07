@@ -6,7 +6,8 @@ The general methodology to build a neural network:
 2.Initialize the model's parameter
 
 3.loop:
-      -Implement forward propagation
+
+      - Implement forward propagation 
       
       -Compute loss or cost function
       
